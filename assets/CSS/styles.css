@@ -16,6 +16,10 @@ body {
   font-family: "Inter", sans-serif;
   overflow-x: hidden;
 }
+
+.navbar{
+  margin-top: 10px;
+}
 .navbar .container-fluid {
   background-color: var(--blackk);
 }
